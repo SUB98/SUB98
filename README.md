@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python, Golang**
 
-- 💬 Ask me about **Data Story Telling**
+- 💬 Ask me about **Story telling using Data**
 
 - 📫 How to reach me **subhambhattacharjee777@gmail.com**
 
